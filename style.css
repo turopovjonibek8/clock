@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: #fff;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+.clock{
+    font-size: 100px;
+    color: brown;
+    text-shadow: 10px 10px 20px orange;
+}
